@@ -1,5 +1,5 @@
-const name= "john"
-const lastName = 'jordan'
+// const name= "john"
+// const lastName = 'jordan'
 
 
 
