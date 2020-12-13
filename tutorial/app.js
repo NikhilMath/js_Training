@@ -1,3 +1,10 @@
+// let number3 = "3"
+// let number5 = "5"
+// number5 = 4
+// let result = number3 + number5
+// console.log(result)
+
+
 // const name= "john"
 // const lastName = 'jordan'
 
