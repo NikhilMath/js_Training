@@ -1,18 +1,32 @@
-const wallHeight = 80;
+let money = 12;
 
-function calculate (value) {
-	const newValue = value * 2.54;
-	return newValue;
-}
+do {
+	console.log('You have ' + money + ' dollars');
+	money++;
+} while (money < 10);
 
-const width = calculate(100);
-const height = calculate(wallHeight);
+// let amount = 10
 
-const dimensions = [
-	width,
-	height
-];
-console.log(dimensions);
+// while (amount > 0) {
+// 	console.log("I have " + amount _ 'dollars and I\'m going to the mall')
+// 	amount--;
+// }
+
+// const wallHeight = 80;
+
+// function calculate (value) {
+// 	const newValue = value * 2.54;
+// 	return newValue;
+// }
+
+// const width = calculate(100);
+// const height = calculate(wallHeight);
+
+// const dimensions = [
+// 	width,
+// 	height
+// ];
+// console.log(dimensions);
 
 // function greet(name) {
 //   console.log('hello there ' + name);
